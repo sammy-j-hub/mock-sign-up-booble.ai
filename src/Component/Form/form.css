@@ -1,0 +1,16 @@
+.login-form{
+    max-width: 500px;
+    background: white;
+    padding: 20px 20px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    position: relative;
+    overflow: visible;
+}
+form {
+    border-bottom: solid #DCDCDC 2px;
+    border-top: solid #DCDCDC 2px;
+    border-right: solid #DCDCDC 2px;
+    border-left: solid #DCDCDC 2px ;
+  }
