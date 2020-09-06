@@ -3,7 +3,7 @@ import './form.css';
 import { Button, Form, FormGroup, Label, Input } from 'reactstrap';
 // import { FacebookLoginButton } from 'react-social-login-buttons';
 import Facebook from './facebook'
-function Register(){
+function Register() {
     return(
         <Form className="login-form">
             <h3 className="text-center mb-30">
